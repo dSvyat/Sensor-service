@@ -26,3 +26,7 @@ Returns all measurements from DB
 
 •/measurements/rainyDaysCount
 Returns rainy days count
+
+SQL code for creating tables you can find as always in sql folder (project3/src/main/java/ua/vozniuk/project3/sql).
+
+I used Postman to test application.
