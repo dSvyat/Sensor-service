@@ -1,4 +1,4 @@
-# project3
+# Sensor-service
 Technical specifications:
 
 A service for receiving and storing data from sensors. 
